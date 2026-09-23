@@ -1,0 +1,137 @@
+{
+  "profile": {
+    "initials": "MS",
+    "firstName": "MAHAVEER",
+    "lastName": "SONI",
+    "role": "Software engineer / Creative problem solver",
+    "status": "Available for opportunities",
+    "location": "Based in India · Working globally",
+    "tagline": "I engineer reliable digital products from first idea to production — with clean code, sharp thinking, and an eye for the details others miss.",
+    "cta": "Explore selected work"
+  },
+  "marquee": "BUILD · SHIP · IMPROVE · REPEAT · ",
+  "skills": [
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Python",
+    "Java",
+    "SQL",
+    "Git",
+    "Docker",
+    "Cloud"
+  ],
+  "stats": [
+    {
+      "value": 2,
+      "suffix": "+",
+      "label": "Years engineering",
+      "detail": "Turning ideas into reliable, production-grade software — day in, day out."
+    },
+    {
+      "value": 10,
+      "suffix": "+",
+      "label": "Products shipped",
+      "detail": "Features and side projects taken from whiteboard sketch to working product."
+    },
+    {
+      "value": 500,
+      "suffix": "+",
+      "label": "DSA problems solved",
+      "detail": "Strong fundamentals in data structures, algorithms, and complexity thinking."
+    }
+  ],
+  "traits": [
+    "End-to-end ownership",
+    "Clean, maintainable code",
+    "System design thinking",
+    "Fast, self-driven learner",
+    "Clear communicator",
+    "Mentors teammates"
+  ],
+  "experience": [
+    {
+      "period": "20XX — NOW",
+      "role": "Software Engineer",
+      "company": "Your current company",
+      "highlights": [
+        "Add the systems you own and the scope of your responsibility.",
+        "Describe a hard problem you solved and how you approached it.",
+        "Call out one measurable result you are proud of."
+      ]
+    },
+    {
+      "period": "20XX — 20XX",
+      "role": "Software Developer",
+      "company": "Previous company",
+      "highlights": [
+        "Describe your scope and the teams you collaborated with.",
+        "Highlight the impact your work had on users or the business."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "01",
+      "title": "Project Alpha",
+      "type": "FULL-STACK",
+      "highlights": [
+        "The problem you set out to solve.",
+        "Your approach and key technical decisions.",
+        "What made the solution technically interesting."
+      ],
+      "stack": "React · Node · PostgreSQL"
+    },
+    {
+      "id": "02",
+      "title": "Project Beta",
+      "type": "SYSTEMS",
+      "highlights": [
+        "Highlight scale, performance, or automation wins.",
+        "A hard engineering constraint you solved."
+      ],
+      "stack": "Python · Docker · Cloud"
+    },
+    {
+      "id": "03",
+      "title": "Project Gamma",
+      "type": "OPEN SOURCE",
+      "highlights": [
+        "What the project does and who it helps.",
+        "Your most meaningful contribution."
+      ],
+      "stack": "TypeScript · APIs · CI/CD"
+    }
+  ],
+  "contact": {
+    "intro": "I’m interested in ambitious products, thoughtful teams, and engineering challenges worth obsessing over.",
+    "links": [
+      {
+        "label": "Email",
+        "url": "mailto:your.email@example.com",
+        "icon": "mail"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com",
+        "icon": "linkedin"
+      },
+      {
+        "label": "LeetCode",
+        "url": "https://leetcode.com",
+        "icon": "leetcode"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com",
+        "icon": "github"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 Mahaveer Soni",
+    "location": "India · Open to remote",
+    "note": "Designed to evolve"
+  }
+}
